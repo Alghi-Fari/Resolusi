@@ -1,6 +1,5 @@
 Belajar GIT & Github
 ---------------------
-Belajar CSS3
 Belajar CSS GRID
 Belajar CSS Flexbox
 ---------------------
