@@ -10,3 +10,4 @@ Belajar JS Lanjut
 Belajar React JS
 ---------------------
 Membuat Web 
+Lanjut Project dengan Fayed
