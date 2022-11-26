@@ -2,3 +2,5 @@ Rencana kedepan
 
 - Belajar membuat full stack Web
 - Lanjut belajar css,js (PHP jika perlu)
+- Mencoba membuat project Web
+- Belajar React js
