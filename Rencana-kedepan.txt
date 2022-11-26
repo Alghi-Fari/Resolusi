@@ -4,4 +4,3 @@ Rencana kedepan
 - Lanjut belajar css,js (PHP jika perlu)
 - Mencoba membuat project Web
 - Belajar React js
-- Membuat web portofolio web
